@@ -8,7 +8,9 @@
 - apagar tudo
 
 #Segunda aula de Git
+
 - branch
 
-
 #Terceira aula de Git
+
+- topicos ainda desconhecidos
